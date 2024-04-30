@@ -15,8 +15,8 @@ HBOT_BROKER_ID = "Hummingbot"
 DEFAULT_TIME_IN_FORCE = "GTC"
 
 REST_URLS = {
-    "bybit_perpetual_main": "https://api.bybit.com/",
-    "bybit_perpetual_testnet": "https://api-testnet.bybit.com/"
+    "bybit_perpetual_main": "https://api.bybit.com",
+    "bybit_perpetual_testnet": "https://api-testnet.bybit.com"
 }
 
 WSS_PUBLIC_URL_LINEAR = {
